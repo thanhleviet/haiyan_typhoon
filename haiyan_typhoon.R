@@ -1,4 +1,4 @@
-#Some pieces of code of this script was inherited from http://www.r-bloggers.com/r-mapping-super-typhoon-yolanda-haiyan-track/
+#Some pieces of code were adapted from http://www.r-bloggers.com/r-mapping-super-typhoon-yolanda-haiyan-track/
 #lethanhx2k@gmail.com
 #Dec 03 2013
 #Load the packages
